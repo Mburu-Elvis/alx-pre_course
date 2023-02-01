@@ -1,2 +1,3 @@
-
-0x01 directory
+**0x01 directory**
+---
+Created various bash, c, js directories
