@@ -1,3 +1,3 @@
 My first readme
 ---
-Editing is always 
+Editing is always allowed
